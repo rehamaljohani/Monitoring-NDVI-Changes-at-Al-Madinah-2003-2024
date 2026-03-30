@@ -54,3 +54,29 @@ In these specific satellite images, we used a type of color presentation where v
 ### Key Observations
 * 2003 Image: Shows where the original farms and green areas were located
 * 2024 Image: Shows how much the city has grown and how the location or amount of green spaces changed over 21 years
+
+
+---
+
+### NDVI Analysis Results
+
+After applying the NDVI equation to the satellite data, these maps show the final results:
+
+#### 1. NDVI Map (2003)
+![NDVI 2003](NDVI-2003.jpg)
+* Green: Areas with vegetation
+* Yellow: Areas without vegetation
+
+#### 2. NDVI Map (2024)
+![NDVI 2024](NDVI-2024.jpg)
+* Green: Areas with vegetation
+* Yellow: Areas without vegetation
+
+#### 3. Vegetation Change Map
+![Change Map](NDVI-infrastructure.jpg)
+This final map shows the environmental trend:
+* 🟢 Green Land: Areas currently green or successfully greened
+* 🔴 Desertified Land: Areas that lost vegetation due to Urban Development and Climate Change factors
+* 🟡 No Change: Areas that remained without vegetation
+
+---
