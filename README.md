@@ -25,14 +25,12 @@ As a member of the research team, I focused on spatial data preparation and pres
 * Grade: Received an A+ grade for technical accuracy and presentation quality
 * Impact: Contributed to environmental awareness through public speaking at local initiatives
 
----
 
+---
 
 ### Visual Results
 
 To analyze environmental changes in Al-Madinah, we compared two satellite images from different years: 2003 and 2024
-
----
 
 #### 1. Satellite Image (2003)
 ![Madinah 2003](Madinah-Satellite-2003.png)
@@ -47,9 +45,9 @@ To analyze environmental changes in Al-Madinah, we compared two satellite images
 ### How to Read the Maps
 In these specific satellite images, we used a type of color presentation where vegetation looks red to make it easier to see:
 
-* 🔴 Red Areas: Represent Healthy Plants (Farms, parks, and green spaces). We used this color because plants reflect a lot of invisible light (Near-Infrared), and showing it as red highlights them very clearly.
-* ⚪ Grey/White Areas: Represent Urban Areas (Buildings, roads, and houses)
-* 🟤 Brown/Yellow Areas: Represent Barren Land and rocky mountains typical of the Al-Madinah region
+* 🔴 Red Areas: Represent Healthy Plants (Farms, parks, and green spaces). We used this color because plants reflect a lot of invisible light (Near-Infrared), and showing it as red highlights them very clearly
+* ⚪ Grey Areas: Represent Urban Areas (Buildings, roads, and houses)
+* 🟤 Brown Areas: Represent Barren Land and rocky mountains typical of the Al-Madinah region
 
 ---
 
