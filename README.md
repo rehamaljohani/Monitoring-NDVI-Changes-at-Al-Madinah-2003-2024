@@ -46,7 +46,7 @@ To analyze environmental changes in Al-Madinah, we compared two satellite images
 In these specific satellite images, we used a type of color presentation where vegetation looks red to make it easier to see:
 
 * 🔴 Red Areas: Represent Healthy Plants (Farms, parks, and green spaces). We used this color because plants reflect a lot of invisible light (Near-Infrared), and showing it as red highlights them very clearly
-* ⚪ Grey Areas: Represent Urban Areas (Buildings, roads, and houses)
+* ⚪ Grey or White Areas: Represent Urban Areas (Buildings, roads, and houses)
 * 🟤 Brown Areas: Represent Barren Land and rocky mountains typical of the Al-Madinah region
 
 ---
