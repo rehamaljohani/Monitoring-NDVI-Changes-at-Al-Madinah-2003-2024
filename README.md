@@ -24,3 +24,5 @@ As a member of the research team, I focused on spatial data preparation and pres
 ### Achievements
 * Grade: Received an A+ grade for technical accuracy and presentation quality
 * Impact: Contributed to environmental awareness through public speaking at local initiatives
+
+# Visual Results
