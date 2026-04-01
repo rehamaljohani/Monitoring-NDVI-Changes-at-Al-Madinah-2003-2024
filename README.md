@@ -33,7 +33,7 @@ As a member of the research team, I focused on spatial data preparation and pres
 
 *One of the 85 areas identified in 2009 using the Google Earth Pro Polygon tool and extracted as a KML file.*
 
-> Note: The full spatial data for all 85 identified areas is available in the [Study-Areas-2009.kml](./Study-Areas-2009.kml) file for further geospatial analysis
+> Note: The full spatial data for all 85 identified areas is available in the [Study-Areas-2009.kml](./Study-Areas-2009.kml) file
 
 ---
 
